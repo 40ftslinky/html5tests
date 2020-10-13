@@ -1,7 +1,7 @@
 # Drum Agency
 html5 previews
 
-- [Luxury](https://drum-agency.github.io/html5tests/luxury/)
-- [Power](https://drum-agency.github.io/html5tests/power/)
-- [Styling](https://drum-agency.github.io/html5tests/styling/)
-- [Towing](https://drum-agency.github.io/html5tests/towing/)
+- [Luxury](https://drum-agency.github.io/html5tests/Luxury/)
+- [Power](https://drum-agency.github.io/html5tests/Power/)
+- [Styling](https://drum-agency.github.io/html5tests/Styling/)
+- [Towing](https://drum-agency.github.io/html5tests/Towing/)
