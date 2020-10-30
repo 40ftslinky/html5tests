@@ -6,4 +6,4 @@ html5 previews
 - [Styling](https://drum-agency.github.io/html5tests/Styling/)
 - [Towing](https://drum-agency.github.io/html5tests/Towing/)
 
-- [Update](https://drum-agency.github.io/html5tests/Update/)
+- [Update](https://40ftslinky.github.io/html5tests/Update/)
